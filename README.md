@@ -11,6 +11,6 @@ Only 2 people play the game.
 <br><br> In the console there is the available places in the game and actions that each player does:
 <br><img width="422" alt="Screenshot tictactoe5" src="https://github.com/ShakedTorbati/Tic-Tac-Toe/assets/157404668/4ab15235-51fd-42f9-9dde-edbe02e3d02e">
 <br><br>The music is from: 
-<br><br>https://pixabay.com/ 
+<br>https://pixabay.com/ 
 <br> A link for the project:
 <br>https://tictactoe000000001.netlify.app/
